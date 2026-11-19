@@ -1,0 +1,14 @@
+.browser_profile/
+output/
+*.png
+import_progress*.json
+matched_*.json
+matched_urls.txt
+match_report.html
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
